@@ -1,0 +1,5 @@
+numero = 0
+limite = int(input("insira um número:"))
+while numero <= limite:
+    print(numero)
+    numero += 1
